@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Mani Bhushan Singh</h1>
+<h1 align="center">Ola 👋, I'm Mani Bhushan Singh</h1>
 <h3 align="center">A passionate Software Development Engineer from India</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 - 🔭 I’m currently working on **Task Management Application**
 
-- 🌱 I’m currently learning **Node.js | D3JS**
+- 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **JAVA | Spring Boot | HTML | CSS | React**
 
 - 📫 How to reach me **adoniss.mani@gmail.com**
 
-- 📄 Know about my experiences https://tinyurl.com/4f2p4aav
+- 📄 Know about my experiences https://tinyurl.com/42w93k9v
 
 - ⚡ Fun fact **I watch Anime**
 
