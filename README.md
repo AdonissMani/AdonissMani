@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **adoniss.mani@gmail.com**
 
-- 📄 Know about my experiences https://tinyurl.com/42w93k9v
+- 📄 Know about my experiences https://tinyurl.com/y8y4xnfv
 
 - ⚡ Fun fact **I watch Anime**
 
