@@ -1,4 +1,4 @@
-<h1 align="center">Ola 👋, I'm Mani Bhushan Singh</h1>
+<h1 align="center"> 👋, I'm Mani Bhushan Singh</h1>
 <h3 align="center">A passionate Software Development Engineer from India</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **adoniss.mani@gmail.com**
 
-- 📄 Know about my experiences http://tinyurl.com/r3-sum3
+- 📄 Know about my experiences https://tinyurl.com/r35-um3
 
 - ⚡ Fun fact **I watch Anime**
 
