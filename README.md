@@ -12,7 +12,6 @@
 
 - 📄 Know about my experiences https://tinyurl.com/r35-um3
 
-- ⚡ Fun fact **I watch Anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
