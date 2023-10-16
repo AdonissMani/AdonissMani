@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Employee Management Application**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Spring Security**
 
 - 💬 Ask me about **JAVA | Spring Boot | HTML | CSS | React**
 
