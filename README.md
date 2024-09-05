@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **adoniss.mani@gmail.com**
 
-- 📄 Resume  https://tinyurl.com/r35u-m3
+- 📄 Resume  https://shorturl.at/fuTuE
 
 
 <h3 align="left">Connect with me:</h3>
