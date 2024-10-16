@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **System Design | FastAPI**
 
-- 💬 Ask me about **JAVA | Spring Boot | HTML | CSS | React**
+- 💬 Ask me about **JAVA | Spring Boot | Python | Django | React**
 
 - 📫 How to reach me **manibhushan7922@gmail.com**
 
