@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **JAVA | Spring Boot | HTML | CSS | React**
 
-- 📫 How to reach me **adoniss.mani@gmail.com**
+- 📫 How to reach me **manibhushan7922@gmail.com**
 
 - 📄 Resume  https://shorturl.at/fuTuE
 
