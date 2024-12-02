@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **manibhushan7922@gmail.com**
 
-- 📄 Resume  https://shorturl.at/fuTuE
+- 📄 Resume  https://shorturl.at/jibA9
 
 
 <h3 align="left">Connect with me:</h3>
